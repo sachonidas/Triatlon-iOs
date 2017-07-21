@@ -14,6 +14,38 @@
 		3B0B83A61E2D92E300D87ECB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B0B83A41E2D92E300D87ECB /* LaunchScreen.storyboard */; };
 		3B0B83B11E2D92E300D87ECB /* La_Rioja_TriatlonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B83B01E2D92E300D87ECB /* La_Rioja_TriatlonTests.swift */; };
 		3B0B83BC1E2D92E300D87ECB /* La_Rioja_TriatlonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0B83BB1E2D92E300D87ECB /* La_Rioja_TriatlonUITests.swift */; };
+		3B0B83CB1E2D92EB00D87ECB /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B0B83CA1E2D92EB00D87ECB /* MapKit.framework */; };
+		3BFB48591E2EE2BA008B8CA6 /* ViewControllerInscripcion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFB48581E2EE2BA008B8CA6 /* ViewControllerInscripcion.swift */; };
+		3BFB487F1E2EEE1C008B8CA6 /* bici.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48641E2EEE1C008B8CA6 /* bici.png */; };
+		3BFB48801E2EEE1C008B8CA6 /* contacticon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48651E2EEE1C008B8CA6 /* contacticon.png */; };
+		3BFB48811E2EEE1C008B8CA6 /* correr.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48661E2EEE1C008B8CA6 /* correr.png */; };
+		3BFB48821E2EEE1C008B8CA6 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48671E2EEE1C008B8CA6 /* facebook.png */; };
+		3BFB48831E2EEE1C008B8CA6 /* half.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48681E2EEE1C008B8CA6 /* half.jpeg */; };
+		3BFB48841E2EEE1C008B8CA6 /* hotel.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48691E2EEE1C008B8CA6 /* hotel.png */; };
+		3BFB48851E2EEE1C008B8CA6 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB486A1E2EEE1C008B8CA6 /* info.png */; };
+		3BFB48861E2EEE1C008B8CA6 /* innevento.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB486B1E2EEE1C008B8CA6 /* innevento.jpg */; };
+		3BFB48871E2EEE1C008B8CA6 /* larioja.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB486C1E2EEE1C008B8CA6 /* larioja.jpg */; };
+		3BFB48881E2EEE1C008B8CA6 /* logoblanco.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB486D1E2EEE1C008B8CA6 /* logoblanco.png */; };
+		3BFB48891E2EEE1C008B8CA6 /* logonegro.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB486E1E2EEE1C008B8CA6 /* logonegro.png */; };
+		3BFB488A1E2EEE1C008B8CA6 /* logook.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB486F1E2EEE1C008B8CA6 /* logook.jpg */; };
+		3BFB488B1E2EEE1C008B8CA6 /* logos.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48701E2EEE1C008B8CA6 /* logos.png */; };
+		3BFB488C1E2EEE1C008B8CA6 /* logrono.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48711E2EEE1C008B8CA6 /* logrono.jpg */; };
+		3BFB488D1E2EEE1C008B8CA6 /* mapa.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48721E2EEE1C008B8CA6 /* mapa.png */; };
+		3BFB488E1E2EEE1C008B8CA6 /* meta.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48731E2EEE1C008B8CA6 /* meta.png */; };
+		3BFB488F1E2EEE1C008B8CA6 /* parking.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48741E2EEE1C008B8CA6 /* parking.png */; };
+		3BFB48901E2EEE1C008B8CA6 /* perfilbici.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48751E2EEE1C008B8CA6 /* perfilbici.jpg */; };
+		3BFB48911E2EEE1C008B8CA6 /* perfilbici2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48761E2EEE1C008B8CA6 /* perfilbici2.jpg */; };
+		3BFB48921E2EEE1C008B8CA6 /* recorridos.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48771E2EEE1C008B8CA6 /* recorridos.png */; };
+		3BFB48931E2EEE1C008B8CA6 /* secbici.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48781E2EEE1C008B8CA6 /* secbici.png */; };
+		3BFB48941E2EEE1C008B8CA6 /* seccor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB48791E2EEE1C008B8CA6 /* seccor.jpg */; };
+		3BFB48951E2EEE1C008B8CA6 /* secnat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB487A1E2EEE1C008B8CA6 /* secnat.jpg */; };
+		3BFB48961E2EEE1C008B8CA6 /* swimmer.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB487B1E2EEE1C008B8CA6 /* swimmer.png */; };
+		3BFB48971E2EEE1C008B8CA6 /* trans.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB487C1E2EEE1C008B8CA6 /* trans.jpg */; };
+		3BFB48981E2EEE1C008B8CA6 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB487D1E2EEE1C008B8CA6 /* twitter.png */; };
+		3BFB48991E2EEE1C008B8CA6 /* web.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFB487E1E2EEE1C008B8CA6 /* web.png */; };
+		3BFB489D1E3028E1008B8CA6 /* ViewControllerLogrono.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFB489C1E3028E1008B8CA6 /* ViewControllerLogrono.swift */; };
+		3BFB489F1E30296E008B8CA6 /* ViewControllerLaRioja.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFB489E1E30296E008B8CA6 /* ViewControllerLaRioja.swift */; };
+		3BFB48A11E317292008B8CA6 /* ViewControllerMapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFB48A01E317292008B8CA6 /* ViewControllerMapa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +79,38 @@
 		3B0B83B71E2D92E300D87ECB /* La Rioja TriatlonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "La Rioja TriatlonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B0B83BB1E2D92E300D87ECB /* La_Rioja_TriatlonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = La_Rioja_TriatlonUITests.swift; sourceTree = "<group>"; };
 		3B0B83BD1E2D92E300D87ECB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B0B83CA1E2D92EB00D87ECB /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		3BFB48581E2EE2BA008B8CA6 /* ViewControllerInscripcion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerInscripcion.swift; sourceTree = "<group>"; };
+		3BFB48641E2EEE1C008B8CA6 /* bici.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bici.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/bici.png"; sourceTree = "<group>"; };
+		3BFB48651E2EEE1C008B8CA6 /* contacticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = contacticon.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/contacticon.png"; sourceTree = "<group>"; };
+		3BFB48661E2EEE1C008B8CA6 /* correr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = correr.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/correr.png"; sourceTree = "<group>"; };
+		3BFB48671E2EEE1C008B8CA6 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = facebook.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/facebook.png"; sourceTree = "<group>"; };
+		3BFB48681E2EEE1C008B8CA6 /* half.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = half.jpeg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/half.jpeg"; sourceTree = "<group>"; };
+		3BFB48691E2EEE1C008B8CA6 /* hotel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hotel.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/hotel.png"; sourceTree = "<group>"; };
+		3BFB486A1E2EEE1C008B8CA6 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = info.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/info.png"; sourceTree = "<group>"; };
+		3BFB486B1E2EEE1C008B8CA6 /* innevento.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = innevento.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/innevento.jpg"; sourceTree = "<group>"; };
+		3BFB486C1E2EEE1C008B8CA6 /* larioja.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = larioja.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/larioja.jpg"; sourceTree = "<group>"; };
+		3BFB486D1E2EEE1C008B8CA6 /* logoblanco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logoblanco.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/logoblanco.png"; sourceTree = "<group>"; };
+		3BFB486E1E2EEE1C008B8CA6 /* logonegro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logonegro.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/logonegro.png"; sourceTree = "<group>"; };
+		3BFB486F1E2EEE1C008B8CA6 /* logook.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logook.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/logook.jpg"; sourceTree = "<group>"; };
+		3BFB48701E2EEE1C008B8CA6 /* logos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logos.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/logos.png"; sourceTree = "<group>"; };
+		3BFB48711E2EEE1C008B8CA6 /* logrono.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logrono.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/logrono.jpg"; sourceTree = "<group>"; };
+		3BFB48721E2EEE1C008B8CA6 /* mapa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mapa.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/mapa.png"; sourceTree = "<group>"; };
+		3BFB48731E2EEE1C008B8CA6 /* meta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = meta.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/meta.png"; sourceTree = "<group>"; };
+		3BFB48741E2EEE1C008B8CA6 /* parking.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = parking.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/parking.png"; sourceTree = "<group>"; };
+		3BFB48751E2EEE1C008B8CA6 /* perfilbici.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = perfilbici.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/perfilbici.jpg"; sourceTree = "<group>"; };
+		3BFB48761E2EEE1C008B8CA6 /* perfilbici2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = perfilbici2.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/perfilbici2.jpg"; sourceTree = "<group>"; };
+		3BFB48771E2EEE1C008B8CA6 /* recorridos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = recorridos.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/recorridos.png"; sourceTree = "<group>"; };
+		3BFB48781E2EEE1C008B8CA6 /* secbici.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = secbici.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/secbici.png"; sourceTree = "<group>"; };
+		3BFB48791E2EEE1C008B8CA6 /* seccor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = seccor.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/seccor.jpg"; sourceTree = "<group>"; };
+		3BFB487A1E2EEE1C008B8CA6 /* secnat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = secnat.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/secnat.jpg"; sourceTree = "<group>"; };
+		3BFB487B1E2EEE1C008B8CA6 /* swimmer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = swimmer.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/swimmer.png"; sourceTree = "<group>"; };
+		3BFB487C1E2EEE1C008B8CA6 /* trans.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trans.jpg; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/trans.jpg"; sourceTree = "<group>"; };
+		3BFB487D1E2EEE1C008B8CA6 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = twitter.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/twitter.png"; sourceTree = "<group>"; };
+		3BFB487E1E2EEE1C008B8CA6 /* web.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = web.png; path = "../../../../../Downloads/Lsachaabazan-i-half-triatlon-rioja-04ef640e7671/app/src/main/res/drawable/web.png"; sourceTree = "<group>"; };
+		3BFB489C1E3028E1008B8CA6 /* ViewControllerLogrono.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerLogrono.swift; sourceTree = "<group>"; };
+		3BFB489E1E30296E008B8CA6 /* ViewControllerLaRioja.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerLaRioja.swift; sourceTree = "<group>"; };
+		3BFB48A01E317292008B8CA6 /* ViewControllerMapa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerMapa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B0B83CB1E2D92EB00D87ECB /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +146,7 @@
 				3B0B83AF1E2D92E300D87ECB /* La Rioja TriatlonTests */,
 				3B0B83BA1E2D92E300D87ECB /* La Rioja TriatlonUITests */,
 				3B0B83991E2D92E300D87ECB /* Products */,
+				3B0B83C91E2D92EB00D87ECB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +163,43 @@
 		3B0B839A1E2D92E300D87ECB /* La Rioja Triatlon */ = {
 			isa = PBXGroup;
 			children = (
+				3BFB48641E2EEE1C008B8CA6 /* bici.png */,
+				3BFB48651E2EEE1C008B8CA6 /* contacticon.png */,
+				3BFB48661E2EEE1C008B8CA6 /* correr.png */,
+				3BFB48671E2EEE1C008B8CA6 /* facebook.png */,
+				3BFB48681E2EEE1C008B8CA6 /* half.jpeg */,
+				3BFB48691E2EEE1C008B8CA6 /* hotel.png */,
+				3BFB486A1E2EEE1C008B8CA6 /* info.png */,
+				3BFB486B1E2EEE1C008B8CA6 /* innevento.jpg */,
+				3BFB486C1E2EEE1C008B8CA6 /* larioja.jpg */,
+				3BFB486D1E2EEE1C008B8CA6 /* logoblanco.png */,
+				3BFB486E1E2EEE1C008B8CA6 /* logonegro.png */,
+				3BFB486F1E2EEE1C008B8CA6 /* logook.jpg */,
+				3BFB48701E2EEE1C008B8CA6 /* logos.png */,
+				3BFB48711E2EEE1C008B8CA6 /* logrono.jpg */,
+				3BFB48721E2EEE1C008B8CA6 /* mapa.png */,
+				3BFB48731E2EEE1C008B8CA6 /* meta.png */,
+				3BFB48741E2EEE1C008B8CA6 /* parking.png */,
+				3BFB48751E2EEE1C008B8CA6 /* perfilbici.jpg */,
+				3BFB48761E2EEE1C008B8CA6 /* perfilbici2.jpg */,
+				3BFB48771E2EEE1C008B8CA6 /* recorridos.png */,
+				3BFB48781E2EEE1C008B8CA6 /* secbici.png */,
+				3BFB48791E2EEE1C008B8CA6 /* seccor.jpg */,
+				3BFB487A1E2EEE1C008B8CA6 /* secnat.jpg */,
+				3BFB487B1E2EEE1C008B8CA6 /* swimmer.png */,
+				3BFB489E1E30296E008B8CA6 /* ViewControllerLaRioja.swift */,
+				3BFB487C1E2EEE1C008B8CA6 /* trans.jpg */,
+				3BFB487D1E2EEE1C008B8CA6 /* twitter.png */,
+				3BFB487E1E2EEE1C008B8CA6 /* web.png */,
 				3B0B839B1E2D92E300D87ECB /* AppDelegate.swift */,
 				3B0B839D1E2D92E300D87ECB /* ViewController.swift */,
 				3B0B839F1E2D92E300D87ECB /* Main.storyboard */,
 				3B0B83A21E2D92E300D87ECB /* Assets.xcassets */,
 				3B0B83A41E2D92E300D87ECB /* LaunchScreen.storyboard */,
 				3B0B83A71E2D92E300D87ECB /* Info.plist */,
+				3BFB48581E2EE2BA008B8CA6 /* ViewControllerInscripcion.swift */,
+				3BFB489C1E3028E1008B8CA6 /* ViewControllerLogrono.swift */,
+				3BFB48A01E317292008B8CA6 /* ViewControllerMapa.swift */,
 			);
 			path = "La Rioja Triatlon";
 			sourceTree = "<group>";
@@ -123,6 +220,14 @@
 				3B0B83BD1E2D92E300D87ECB /* Info.plist */,
 			);
 			path = "La Rioja TriatlonUITests";
+			sourceTree = "<group>";
+		};
+		3B0B83C91E2D92EB00D87ECB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3B0B83CA1E2D92EB00D87ECB /* MapKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +300,11 @@
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 2A4DGMQYU7;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					3B0B83AB1E2D92E300D87ECB = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -235,8 +345,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BFB48991E2EEE1C008B8CA6 /* web.png in Resources */,
+				3BFB488C1E2EEE1C008B8CA6 /* logrono.jpg in Resources */,
+				3BFB48961E2EEE1C008B8CA6 /* swimmer.png in Resources */,
+				3BFB488B1E2EEE1C008B8CA6 /* logos.png in Resources */,
+				3BFB488D1E2EEE1C008B8CA6 /* mapa.png in Resources */,
+				3BFB48951E2EEE1C008B8CA6 /* secnat.jpg in Resources */,
+				3BFB48831E2EEE1C008B8CA6 /* half.jpeg in Resources */,
+				3BFB48851E2EEE1C008B8CA6 /* info.png in Resources */,
+				3BFB48891E2EEE1C008B8CA6 /* logonegro.png in Resources */,
+				3BFB48971E2EEE1C008B8CA6 /* trans.jpg in Resources */,
+				3BFB48841E2EEE1C008B8CA6 /* hotel.png in Resources */,
 				3B0B83A61E2D92E300D87ECB /* LaunchScreen.storyboard in Resources */,
+				3BFB48931E2EEE1C008B8CA6 /* secbici.png in Resources */,
+				3BFB48871E2EEE1C008B8CA6 /* larioja.jpg in Resources */,
+				3BFB48981E2EEE1C008B8CA6 /* twitter.png in Resources */,
 				3B0B83A31E2D92E300D87ECB /* Assets.xcassets in Resources */,
+				3BFB488A1E2EEE1C008B8CA6 /* logook.jpg in Resources */,
+				3BFB48901E2EEE1C008B8CA6 /* perfilbici.jpg in Resources */,
+				3BFB48811E2EEE1C008B8CA6 /* correr.png in Resources */,
+				3BFB48941E2EEE1C008B8CA6 /* seccor.jpg in Resources */,
+				3BFB488E1E2EEE1C008B8CA6 /* meta.png in Resources */,
+				3BFB48821E2EEE1C008B8CA6 /* facebook.png in Resources */,
+				3BFB487F1E2EEE1C008B8CA6 /* bici.png in Resources */,
+				3BFB48861E2EEE1C008B8CA6 /* innevento.jpg in Resources */,
+				3BFB48881E2EEE1C008B8CA6 /* logoblanco.png in Resources */,
+				3BFB48801E2EEE1C008B8CA6 /* contacticon.png in Resources */,
+				3BFB48921E2EEE1C008B8CA6 /* recorridos.png in Resources */,
+				3BFB48911E2EEE1C008B8CA6 /* perfilbici2.jpg in Resources */,
+				3BFB488F1E2EEE1C008B8CA6 /* parking.png in Resources */,
 				3B0B83A11E2D92E300D87ECB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,6 +400,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B0B839E1E2D92E300D87ECB /* ViewController.swift in Sources */,
+				3BFB489F1E30296E008B8CA6 /* ViewControllerLaRioja.swift in Sources */,
+				3BFB489D1E3028E1008B8CA6 /* ViewControllerLogrono.swift in Sources */,
+				3BFB48A11E317292008B8CA6 /* ViewControllerMapa.swift in Sources */,
+				3BFB48591E2EE2BA008B8CA6 /* ViewControllerInscripcion.swift in Sources */,
 				3B0B839C1E2D92E300D87ECB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -514,6 +655,7 @@
 				3B0B83C21E2D92E300D87ECB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B0B83C31E2D92E300D87ECB /* Build configuration list for PBXNativeTarget "La Rioja TriatlonTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +664,7 @@
 				3B0B83C51E2D92E300D87ECB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B0B83C61E2D92E300D87ECB /* Build configuration list for PBXNativeTarget "La Rioja TriatlonUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +673,7 @@
 				3B0B83C81E2D92E300D87ECB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
